@@ -1,0 +1,25 @@
+{
+  "name": "send-email-example",
+  "version": "1.0.0",
+  "description": "Node example for sending an email using Node.js, Express.js and Nodemailer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemailer",
+    "email",
+    "send",
+    "form"
+  ],
+  "author": "Inela Avdic Hukic",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8"
+  }
+}
